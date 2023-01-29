@@ -1,5 +1,3 @@
-nes (50 sloc)  1.41 KB
-
 #ifndef MAIN_H
 #define MAIN_H
 
